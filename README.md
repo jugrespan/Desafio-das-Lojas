@@ -7,9 +7,10 @@ Este projeto é simples e tem a finalidade de coletar dados e ajudar o seu João
 </p>
 
 
+
 Funcionalidades
-*Coletar dados: pega dados de uma tabela
-*Gerar gráficos: fornece o relatório em gráficos tornando o relatório dinâmico
+* Coletar dados: pega dados de uma tabela
+* Gerar gráficos: fornece o relatório em gráficos tornando o relatório dinâmico
 
 Como Funciona
 * abrir nootbook do google
