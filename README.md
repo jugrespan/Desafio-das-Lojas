@@ -15,6 +15,6 @@ Como Funciona
 * Da play nas etapas para obter o resultado
 
 Tecnologias Usadas
-*python
+* python
 
 Divirta-se💟
